@@ -4,7 +4,7 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 04:34:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 04:43:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jeffclaassen/the-bringer-of-good-fortune-available-at-httpjeffclaass/index.html</link>
             <guid isPermaLink="false">f7632650-34f0-4d1b-ada0-b3356ef4e526</guid>
             <pubDate>Sat, 23 Apr 2016 04:34:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a09724f-cfee-48c5-bb81-518508299c12.jpg">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/painted-this-little-dude-the-other-night/index.html</link>
+            <guid isPermaLink="false">c422313a-6215-4eda-83b8-f7c4f7ff9b96</guid>
+            <pubDate>Sat, 23 Apr 2016 04:42:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
