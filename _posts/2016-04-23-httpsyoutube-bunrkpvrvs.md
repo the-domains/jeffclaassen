@@ -1,21 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=-buNRKPVrvs'
+inLanguage: null
+keywords: []
 description: 'https://youtu.be/-buNRKPVrvs'
+datePublished: '2016-04-23T05:55:32.140Z'
+dateModified: '2016-04-23T05:55:23.452Z'
 author: []
-datePublished: '2016-04-23T05:49:02.728Z'
-publisher:
-  domain: www.youtube.com
-  name: youtube.com
-dateModified: '2016-04-23T05:47:48.809Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-04-23-httpsyoutube-bunrkpvrvs.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: httpsyoutube-bunrkpvrvs/index.html
+authors: []
+publisher:
+  name: youtube.com
+  domain: www.youtube.com
+  url: null
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0799e71a-01cd-4039-8c84-c8759255e56a.jpg)
+
 https://youtu.be/-buNRKPVrvs
