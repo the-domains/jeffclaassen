@@ -4,8 +4,14 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 18:00:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/jeffclaassen/status/655833145095274496</link>
+            <guid isPermaLink="false">c3a47f9e-eb60-4be0-a8c2-6075b440b034</guid>
+            <pubDate>Fri, 29 Apr 2016 18:00:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img alt="NYC Travelogue Day One: Check it out at http://jeffclaassen.com/blog/2015/11/nyc-travelogue-day-one-danceclub-in-the-sky-thai-food-citi-bike-and-a-selfie-with-elmo/ ...pic.twitter.com/LpBPCwyE6b" src="https://pbs.twimg.com/media/CUJgjP1VAAADbIZ.jpg:large">]]></description>
@@ -67,13 +73,6 @@
             <link>https://thegrid.ai/jeffclaassen/e529da24-db36-4a9b-9391-5050281f2372/index.html</link>
             <guid isPermaLink="false">e529da24-db36-4a9b-9391-5050281f2372</guid>
             <pubDate>Fri, 29 Apr 2016 05:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14466362162cfd4e994a1d830027c019611df58b.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/painted-this-little-dude-the-other-night/index.html</link>
-            <guid isPermaLink="false">c422313a-6215-4eda-83b8-f7c4f7ff9b96</guid>
-            <pubDate>Fri, 29 Apr 2016 05:07:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
