@@ -4,8 +4,14 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 03:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 03:51:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://twitter.com/jeffclaassen/status/724180248711974912</link>
+            <guid isPermaLink="false">a08b717c-3423-4fdb-b09b-cf4a0d293618</guid>
+            <pubDate>Fri, 29 Apr 2016 03:51:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Home Videos</p>]]></description>
@@ -66,13 +72,6 @@
             <link>https://thegrid.ai/jeffclaassen/4414f2da-ec9f-4759-b841-d65e63429772/index.html</link>
             <guid isPermaLink="false">4414f2da-ec9f-4759-b841-d65e63429772</guid>
             <pubDate>Fri, 29 Apr 2016 00:25:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e743a9f1-9aa1-445f-9474-23fa71e4dc7a.jpg">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/making-this-video-gave-me-a-better-appreciation-for-the-peop/index.html</link>
-            <guid isPermaLink="false">cf30cf62-953f-4fae-b9b1-79a5e424567d</guid>
-            <pubDate>Sat, 23 Apr 2016 06:40:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
