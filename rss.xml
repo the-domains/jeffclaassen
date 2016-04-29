@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 03:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 03:53:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/kVgYl_vyo7c/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/6360f914-b100-4dc0-a30a-925e590a52e8/index.html</link>
+            <guid isPermaLink="false">6360f914-b100-4dc0-a30a-925e590a52e8</guid>
+            <pubDate>Fri, 29 Apr 2016 03:53:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/uA0gIi0Di3I/mqdefault.webp">]]></description>
@@ -65,13 +72,6 @@
             <link>https://thegrid.ai/jeffclaassen/marshall-just-a-little-dude-looking-for-a-good-time-add/index.html</link>
             <guid isPermaLink="false">c3ff9eb9-2f36-41a2-b886-01125c7317a3</guid>
             <pubDate>Fri, 29 Apr 2016 02:04:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc22e5ff-e998-4fd2-ae70-d5f477ba721b.jpg">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/follow-my-shenanigans-on-the-instagramigans-httpwwwinst/index.html</link>
-            <guid isPermaLink="false">5aee61e7-6bbe-4dbf-a719-b40c995f07dc</guid>
-            <pubDate>Fri, 29 Apr 2016 00:36:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
