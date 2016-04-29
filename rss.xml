@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 03:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 03:51:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/uA0gIi0Di3I/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/1054821d-0757-4188-9467-ff9a97e3f26c/index.html</link>
+            <guid isPermaLink="false">1054821d-0757-4188-9467-ff9a97e3f26c</guid>
+            <pubDate>Fri, 29 Apr 2016 03:51:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/jeffclaassen/status/724180248711974912</link>
@@ -65,13 +72,6 @@
             <link>https://thegrid.ai/jeffclaassen/follow-my-shenanigans-on-the-instagramigans-httpwwwinst/index.html</link>
             <guid isPermaLink="false">5aee61e7-6bbe-4dbf-a719-b40c995f07dc</guid>
             <pubDate>Fri, 29 Apr 2016 00:36:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/jeffclaassen/4414f2da-ec9f-4759-b841-d65e63429772/index.html</link>
-            <guid isPermaLink="false">4414f2da-ec9f-4759-b841-d65e63429772</guid>
-            <pubDate>Fri, 29 Apr 2016 00:25:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
