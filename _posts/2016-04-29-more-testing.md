@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: more testing...more testing...more testing...
-datePublished: '2016-04-29T02:24:48.570Z'
-dateModified: '2016-04-29T02:22:23.773Z'
+datePublished: '2016-04-29T02:27:17.333Z'
+dateModified: '2016-04-29T02:27:00.503Z'
 title: ''
 author: []
 authors: []
@@ -15,7 +15,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 sourcePath: _posts/2016-04-29-more-testing.md
 published: true
 url: more-testing/index.html
@@ -38,10 +38,9 @@ more testing...
 
 more testing...
 
-more testing: image with a link [![](http://jeffclaassen.com/gallery/painting/2016/skye_01.jpg)][2]
+more testing: image with a link [![](http://jeffclaassen.com/gallery/painting/2016/skye_01.jpg)][1]
 
-[end testing][2].
+[end testing][1].
 
 [0]: http://www.jeffclaassen.com/blog
-[1]: </p><p><a data-grid-id=
-[2]: null
+[1]: null
