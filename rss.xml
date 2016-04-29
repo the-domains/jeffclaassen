@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:00:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 18:52:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[paint splattered dude]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14466362162cfd4e994a1d830027c019611df58b.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/painted-this-little-dude-the-other-night/index.html</link>
+            <guid isPermaLink="false">c422313a-6215-4eda-83b8-f7c4f7ff9b96</guid>
+            <pubDate>Fri, 29 Apr 2016 18:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://twitter.com/jeffclaassen/status/655833145095274496</link>
@@ -66,13 +73,6 @@
             <link>https://www.youtube.com/watch?v=Ua900Smyi90</link>
             <guid isPermaLink="false">79e88fb7-9775-4d40-9224-48d6f1b9f35c</guid>
             <pubDate>Fri, 29 Apr 2016 05:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/Q7KmpTY-mb4/mqdefault.webp">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/e529da24-db36-4a9b-9391-5050281f2372/index.html</link>
-            <guid isPermaLink="false">e529da24-db36-4a9b-9391-5050281f2372</guid>
-            <pubDate>Fri, 29 Apr 2016 05:14:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
