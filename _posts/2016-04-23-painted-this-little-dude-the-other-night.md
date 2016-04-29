@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Painted this little dude the other night.
-datePublished: '2016-04-29T18:52:40.123Z'
-dateModified: '2016-04-29T18:52:21.636Z'
+datePublished: '2016-04-29T18:55:03.656Z'
+dateModified: '2016-04-29T18:52:46.396Z'
 title: ''
 author:
   - name: ''
@@ -24,6 +24,8 @@ url: painted-this-little-dude-the-other-night/index.html
 _type: Article
 
 ---
+# New Painting!
+
 stuff...stuff...stuff...stuff...stuff...stuff...stuff...stuff...
 
 stuff...stuff...
