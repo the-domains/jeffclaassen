@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Jeff Claassen
-    url: 'https://www.youtube.com/user/sxtyfoursquares'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=Q7KmpTY-mb4'
+inLanguage: en
 keywords:
   - duration
   - speedpaint
@@ -21,7 +16,13 @@ keywords:
   - jeffclaassen
   - tutorial
 description: 'Trying to learn Adobe Premiere by forcing myself to use it more. Anyway, this is just a just a quick clip from a longer video I uploaded a few days ago. The music is just a quick little loop I made with iElectribe, which is something I am trying to learn.'
-inLanguage: en
+datePublished: '2016-04-29T05:22:55.671Z'
+dateModified: '2016-04-29T05:22:31.035Z'
+author:
+  - name: Jeff Claassen
+    url: 'https://www.youtube.com/user/sxtyfoursquares'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Q7KmpTY-mb4&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Q7KmpTY-mb4'
 title: 'Bunny Speed Painting - Preview of "Late Night Painting Session"'
-datePublished: '2016-04-29T05:17:39.995Z'
-dateModified: '2016-04-29T05:17:10.225Z'
-starred: false
 sourcePath: _posts/2016-04-29-bunny-speed-painting-preview-of-late-night-painting-sessi.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
