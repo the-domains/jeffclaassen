@@ -60,8 +60,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/user/sxtyfoursquares/videos'
 title: Jeff Claassen
-datePublished: '2016-04-29T02:48:15.851Z'
-dateModified: '2016-04-29T02:47:52.893Z'
+datePublished: '2016-04-29T02:50:33.141Z'
+dateModified: '2016-04-29T02:49:00.860Z'
 starred: false
 sourcePath: _posts/2016-04-29-jeff-claassen.md
 published: true
