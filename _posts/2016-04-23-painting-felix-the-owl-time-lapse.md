@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Jeff Claassen
-    url: 'https://www.youtube.com/user/sxtyfoursquares'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=sXxR48urBw8'
+inLanguage: en
 keywords:
   - duration
   - acrylic
@@ -21,7 +16,13 @@ keywords:
   - art
   - jeffclaassen
 description: "I hope you enjoy this \"making of Felix The Owl\". He's an original 16\" diameter painting , acrylic and ink on wood. The music is by mash up genius Girl Talk."
-inLanguage: en
+datePublished: '2016-04-29T19:59:46.704Z'
+dateModified: '2016-04-29T05:03:03.474Z'
+author:
+  - name: Jeff Claassen
+    url: 'https://www.youtube.com/user/sxtyfoursquares'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=sXxR48urBw8&feature=applinks'
     type: ios
@@ -59,16 +60,16 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=sXxR48urBw8'
 title: 'Painting Felix The Owl, time lapse'
-datePublished: '2016-04-23T06:04:15.502Z'
-dateModified: '2016-04-23T06:00:03.917Z'
-starred: false
 sourcePath: _posts/2016-04-23-painting-felix-the-owl-time-lapse.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
