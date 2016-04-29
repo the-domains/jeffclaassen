@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-29T02:22:23.591Z'
-dateModified: '2016-04-29T02:20:13.356Z'
+description: more testing...more testing...more testing...
+datePublished: '2016-04-29T02:24:48.570Z'
+dateModified: '2016-04-29T02:22:23.773Z'
 title: ''
 author: []
 authors: []
@@ -22,7 +22,9 @@ url: more-testing/index.html
 _type: Article
 
 ---
-image with link attempt: [more testing...][0]
+image with link attempt: [![](http://jeffclaassen.com/gallery/painting/2016/zuma_01.jpg)][0]
+
+[more testing...][1]
 
 # more testing...
 
@@ -36,10 +38,10 @@ more testing...
 
 more testing...
 
-more testing: image with a link [![](http://jeffclaassen.com/gallery/painting/2016/skye_01.jpg)][1]
+more testing: image with a link [![](http://jeffclaassen.com/gallery/painting/2016/skye_01.jpg)][2]
 
-[end testing][1].
+[end testing][2].
 
-[0]: </p>
-<p><a href=
-[1]: null
+[0]: http://www.jeffclaassen.com/blog
+[1]: </p><p><a data-grid-id=
+[2]: null
