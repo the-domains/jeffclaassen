@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 20:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 20:15:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HELLO!]]></title>
+            <description><![CDATA[<article><h1>HELLO!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/46345eb4384c7724657bfe6306a44db50a5abfd7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jeffclaassen/hello/index.html</link>
+            <guid isPermaLink="false">b2cc6032-05f2-469b-b7ad-010f15520f74</guid>
+            <pubDate>Fri, 29 Apr 2016 20:15:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e00ecc3-962f-4574-a204-13cd7f2100cd.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>http://jeffclaassen.storenvy.com/products/14784603-original-painting-feisty-felipe</link>
             <guid isPermaLink="false">4b6d033d-8601-4779-86fa-a77d6a7640ef</guid>
             <pubDate>Fri, 29 Apr 2016 20:12:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[HELLO!]]></title>
-            <description><![CDATA[<article><h1>HELLO!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00ead301358df2b838e38f19a46caf71e75f8963.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jeffclaassen/hello/index.html</link>
-            <guid isPermaLink="false">b2cc6032-05f2-469b-b7ad-010f15520f74</guid>
-            <pubDate>Fri, 29 Apr 2016 20:10:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
