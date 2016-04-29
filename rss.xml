@@ -4,8 +4,22 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 03:58:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 04:00:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/MRWm8AHKoaY/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/8ce472cf-c404-44d7-a663-cbc68c55ce45/index.html</link>
+            <guid isPermaLink="false">8ce472cf-c404-44d7-a663-cbc68c55ce45</guid>
+            <pubDate>Fri, 29 Apr 2016 04:00:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://i.ytimg.com/vi_webp/pau4Adg3s4w/mqdefault.webp">]]></description>
+            <link>https://thegrid.ai/jeffclaassen/5c8668a3-c30a-4847-a4e3-0695463d2a57/index.html</link>
+            <guid isPermaLink="false">5c8668a3-c30a-4847-a4e3-0695463d2a57</guid>
+            <pubDate>Fri, 29 Apr 2016 03:58:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>https://youtu.be/dlBYtICI6OA</p>]]></description>
@@ -59,19 +73,6 @@
             <link>https://twitter.com/jeffclaassen</link>
             <guid isPermaLink="false">67617a67-7986-4a7a-be01-db26c9c4c256</guid>
             <pubDate>Fri, 29 Apr 2016 02:42:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/jeffclaassen/status/724180248711974912</link>
-            <guid isPermaLink="false">1d697cdb-e31b-434a-a2b8-64753469dad0</guid>
-            <pubDate>Fri, 29 Apr 2016 02:41:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://jeffclaassen.com/gallery/painting/2016/marshall_01.jpg">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/marshall-just-a-little-dude-looking-for-a-good-time-add/index.html</link>
-            <guid isPermaLink="false">c3ff9eb9-2f36-41a2-b886-01125c7317a3</guid>
-            <pubDate>Fri, 29 Apr 2016 02:04:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
