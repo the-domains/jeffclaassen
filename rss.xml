@@ -4,7 +4,7 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:59:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jeffclaassen/hello/index.html</link>
             <guid isPermaLink="false">b2cc6032-05f2-469b-b7ad-010f15520f74</guid>
             <pubDate>Fri, 29 Apr 2016 19:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[First World iPhone Problems]]></title>
+            <description><![CDATA[<article><h1>First World iPhone Problems</h1><p>Posted on 22 Mar 2016 - 1:16 pm | by jeff | Filed under: Random Shit, Writing First off, carrying a phone in your pocket is such an incredibly ridiculous luxury that's become so commonplace we totally forget how silly the concept is.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8be0987533a1d476cde543183922c6396082b7bd.jpg"></article>]]></description>
+            <link>http://jeffclaassen.com/blog/2016/03/first-world-iphone-problems/</link>
+            <guid isPermaLink="false">54e0a48f-ff79-4fb6-9266-41293d86886a</guid>
+            <pubDate>Fri, 29 Apr 2016 19:59:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[paint splattered dude]]></title>
@@ -66,13 +73,6 @@
             <link>https://twitter.com/jeffclaassen/status/678554600773816320</link>
             <guid isPermaLink="false">844b406a-7925-4144-9508-ea06b5ab13fc</guid>
             <pubDate>Fri, 29 Apr 2016 17:09:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[april 29, 2015testing out this grid thing...]]></title>
-            <description><![CDATA[<h1>april 29, 2015testing out this grid thing...</h1>]]></description>
-            <link>https://thegrid.ai/jeffclaassen/april-29-2015-testing-out-this-grid-thing/index.html</link>
-            <guid isPermaLink="false">37e736d2-5c5f-464e-bcc1-83461f7e8885</guid>
-            <pubDate>Fri, 29 Apr 2016 16:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
