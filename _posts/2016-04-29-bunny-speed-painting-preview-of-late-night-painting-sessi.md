@@ -16,8 +16,8 @@ keywords:
   - jeffclaassen
   - tutorial
 description: 'Trying to learn Adobe Premiere by forcing myself to use it more. Anyway, this is just a just a quick clip from a longer video I uploaded a few days ago. The music is just a quick little loop I made with iElectribe, which is something I am trying to learn.'
-datePublished: '2016-04-29T05:22:55.671Z'
-dateModified: '2016-04-29T05:22:31.035Z'
+datePublished: '2016-04-29T05:25:07.448Z'
+dateModified: '2016-04-29T05:23:02.241Z'
 author:
   - name: Jeff Claassen
     url: 'https://www.youtube.com/user/sxtyfoursquares'
