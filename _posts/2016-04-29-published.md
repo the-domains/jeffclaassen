@@ -1,19 +1,24 @@
 ---
 description: published
+isBasedOnUrl: 'https://app.thegrid.io/posts/8ce472cf-c404-44d7-a663-cbc68c55ce45/edit'
 author: []
-datePublished: '2016-04-29T04:21:44.235Z'
+datePublished: '2016-04-29T04:33:23.368Z'
 publisher:
-  domain: app.thegrid.io
   name: app.thegrid.io
-dateModified: '2016-04-29T04:08:50.611Z'
+  domain: app.thegrid.io
+  url: null
+  favicon: null
+dateModified: '2016-04-29T04:26:19.953Z'
 title: ''
-starred: false
 sourcePath: _posts/2016-04-29-published.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: published/index.html
+inLanguage: null
+keywords: []
+authors: []
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
