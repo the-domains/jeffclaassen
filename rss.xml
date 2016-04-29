@@ -4,7 +4,7 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 20:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 20:07:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jeffclaassen/hello/index.html</link>
             <guid isPermaLink="false">b2cc6032-05f2-469b-b7ad-010f15520f74</guid>
             <pubDate>Fri, 29 Apr 2016 19:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Original Painting - Feisty Felipe from The Claassen Gallery]]></title>
+            <description><![CDATA[<article><h1>Original Painting - Feisty Felipe from The Claassen Gallery</h1><p>Feisty Felipe 5.5 x 8 - mixed media on wood, signed on the back This is a one of a kind original painting on wood. The edges have been painted black and the surface has been coated with a thick layer of clear plastic resin. The resin coating provides a protective high gloss finish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/52e3eebb30224447b90ab6bc5cf1ce342e6b2f7e.jpg"></article>]]></description>
+            <link>http://jeffclaassen.storenvy.com/products/14784603-original-painting-feisty-felipe</link>
+            <guid isPermaLink="false">4b6d033d-8601-4779-86fa-a77d6a7640ef</guid>
+            <pubDate>Fri, 29 Apr 2016 20:06:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,12 +75,6 @@
             <link>http://jeffclaassen.storenvy.com/products/14385831-print-berger</link>
             <guid isPermaLink="false">55833a6c-fd8c-48b6-8c94-4af55909e5b3</guid>
             <pubDate>Fri, 29 Apr 2016 19:36:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/jeffclaassen/status/655833145095274496</link>
-            <guid isPermaLink="false">c3a47f9e-eb60-4be0-a8c2-6075b440b034</guid>
-            <pubDate>Fri, 29 Apr 2016 18:00:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
