@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 16:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 16:59:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[april 29, 2015 testing out this grid thing...]]></title>
+            <description><![CDATA[<h1>april 29, 2015 testing out this grid thing...</h1>]]></description>
+            <link>https://thegrid.ai/jeffclaassen/april-29-2015-testing-out-this-grid-thing/index.html</link>
+            <guid isPermaLink="false">37e736d2-5c5f-464e-bcc1-83461f7e8885</guid>
+            <pubDate>Fri, 29 Apr 2016 16:58:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://pbs.twimg.com/media/Cfs-Xh_UAAAM-a6.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/user/sxtyfoursquares/videos</link>
             <guid isPermaLink="false">798f2b56-e748-4e7e-80d4-10f079623684</guid>
             <pubDate>Fri, 29 Apr 2016 02:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Claassen]]></title>
-            <description><![CDATA[<article><h1>Jeff Claassen</h1><p>Jeff lives on strict diet of cereal and Thai iced tea with an occasional chocolate donut. Despite his poor dietary choices he has been pumping out colorfully bold paintings since before you had an email address and carried a phone in your pocket.</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/user/sxtyfoursquares/videos</link>
-            <guid isPermaLink="false">bf5e856a-8fd3-4b94-8ac3-7f1bd4391450</guid>
-            <pubDate>Fri, 29 Apr 2016 02:48:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
