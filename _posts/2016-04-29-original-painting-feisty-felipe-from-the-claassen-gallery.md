@@ -6,8 +6,8 @@ isBasedOnUrl: 'http://jeffclaassen.storenvy.com/products/14784603-original-paint
 inLanguage: null
 keywords: []
 description: 'Feisty Felipe 5.5 x 8 - mixed media on wood, signed on the back This is a one of a kind original painting on wood. The edges have been painted black and the surface has been coated with a thick layer of clear plastic resin. The resin coating provides a protective high gloss finish.'
-datePublished: '2016-04-29T20:53:14.622Z'
-dateModified: '2016-04-29T20:12:50.258Z'
+datePublished: '2016-04-29T20:55:56.070Z'
+dateModified: '2016-04-29T20:53:25.766Z'
 title: Original Painting - Feisty Felipe from The Claassen Gallery
 author:
   - name: ''
