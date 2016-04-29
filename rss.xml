@@ -4,7 +4,7 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 19:59:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 19:59:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[HELLO!]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/jeffclaassen/hello/index.html</link>
             <guid isPermaLink="false">b2cc6032-05f2-469b-b7ad-010f15520f74</guid>
             <pubDate>Fri, 29 Apr 2016 19:44:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Painting Felix The Owl, time lapse]]></title>
+            <description><![CDATA[<article><h1>Painting Felix The Owl, time lapse</h1><p>I hope you enjoy this "making of Felix The Owl". He's an original 16" diameter painting , acrylic and ink on wood. The music is by mash up genius Girl Talk.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/58bd43fa8a1b7cb72449bc7e40534b8a0db78f57.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sXxR48urBw8</link>
+            <guid isPermaLink="false">d28c2485-cf0f-4a11-b7ac-ca3d616f05ee</guid>
+            <pubDate>Fri, 29 Apr 2016 19:59:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[First World iPhone Problems]]></title>
@@ -67,12 +74,6 @@
             <link>https://twitter.com/jeffclaassen/status/667201854304968704</link>
             <guid isPermaLink="false">9092c08d-e3f1-4be5-ad21-f9b68c0394b5</guid>
             <pubDate>Fri, 29 Apr 2016 18:00:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://twitter.com/jeffclaassen/status/678554600773816320</link>
-            <guid isPermaLink="false">844b406a-7925-4144-9508-ea06b5ab13fc</guid>
-            <pubDate>Fri, 29 Apr 2016 17:09:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
