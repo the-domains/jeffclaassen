@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Painted this little dude the other night.
-datePublished: '2016-04-29T05:00:52.250Z'
-dateModified: '2016-04-29T05:00:09.823Z'
+datePublished: '2016-04-29T05:07:30.568Z'
+dateModified: '2016-04-29T05:01:55.395Z'
 title: ''
 author:
   - name: ''
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: painted-this-little-dude-the-other-night/index.html
 _type: Article
 
