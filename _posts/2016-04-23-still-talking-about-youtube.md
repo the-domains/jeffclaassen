@@ -16,12 +16,14 @@ keywords:
   - si7agimogzo
   - pau4adg3s4w
 description: "Posted on 18 Apr 2016 - 2:15 pm | by jeff | Filed under: Artwork, Videos, Vlog In my last blog post I stated that I set a goal for myself to make one video a week for three months and I'm happy to report that I am right on track."
-datePublished: '2016-04-23T05:49:25.738Z'
-dateModified: '2016-04-23T05:49:25.149Z'
+datePublished: '2016-04-29T19:43:25.112Z'
+dateModified: '2016-04-29T19:43:24.722Z'
 author: []
 related: []
 app_links: []
 title: Still Talking About YouTube
+sourcePath: _posts/2016-04-23-still-talking-about-youtube.md
+published: true
 authors: []
 publisher:
   name: Jeff Claassen Blog
@@ -29,8 +31,6 @@ publisher:
   url: 'http://jeffclaassen.com'
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-still-talking-about-youtube.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
