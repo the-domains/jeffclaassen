@@ -5,22 +5,25 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Painted this little dude the other night.
-datePublished: '2016-04-23T04:42:29.469Z'
-dateModified: '2016-04-23T04:42:01.873Z'
+datePublished: '2016-04-29T05:00:52.250Z'
+dateModified: '2016-04-29T05:00:09.823Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-23-painted-this-little-dude-the-other-night.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-23-painted-this-little-dude-the-other-night.md
-published: true
+starred: true
 url: painted-this-little-dude-the-other-night/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/14466362162cfd4e994a1d830027c019611df58b.jpg)
+
 Painted this little dude the other night.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a09724f-cfee-48c5-bb81-518508299c12.jpg)
