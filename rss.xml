@@ -4,8 +4,15 @@
         <description><![CDATA[Jeff Claassen]]></description>
         <link>https://thegrid.ai/jeffclaassen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 02:04:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 02:09:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jeffclaassen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[more testing...]]></title>
+            <description><![CDATA[<article><h1>more testing...</h1><p>more testing...more testing...more testing...</p></article>]]></description>
+            <link>https://thegrid.ai/jeffclaassen/more-testing/index.html</link>
+            <guid isPermaLink="false">2f750a47-4525-4b8b-bf13-2ea90912c9b0</guid>
+            <pubDate>Fri, 29 Apr 2016 02:09:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://jeffclaassen.com/gallery/painting/2016/marshall_01.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://jeffclaassen.com/blog/2016/04/still-talking-about-youtube/</link>
             <guid isPermaLink="false">99d82820-109c-4ded-b1a5-b635f18be82d</guid>
             <pubDate>Sat, 23 Apr 2016 05:49:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a09724f-cfee-48c5-bb81-518508299c12.jpg">]]></description>
-            <link>https://thegrid.ai/jeffclaassen/painted-this-little-dude-the-other-night/index.html</link>
-            <guid isPermaLink="false">c422313a-6215-4eda-83b8-f7c4f7ff9b96</guid>
-            <pubDate>Sat, 23 Apr 2016 04:42:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
