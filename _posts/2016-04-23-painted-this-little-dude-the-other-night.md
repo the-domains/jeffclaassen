@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Painted this little dude the other night.
-datePublished: '2016-04-29T18:55:03.656Z'
-dateModified: '2016-04-29T18:52:46.396Z'
+datePublished: '2016-04-29T19:42:26.920Z'
+dateModified: '2016-04-29T19:34:38.727Z'
 title: ''
 author:
   - name: ''
